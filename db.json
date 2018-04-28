@@ -1,0 +1,44 @@
+{
+  "dnd": [
+    {
+      "name": "Jansyster the Paladin",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Nerisvyre the Bard"
+    },
+    {
+      "id": 3,
+      "name": "Corsys the Druid"
+    },
+    {
+      "id": 4,
+      "name": "Yenven the Barbarian"
+    },
+    {
+      "id": 5,
+      "name": "Frutiln the Loremaster"
+    },
+    {
+      "id": 6,
+      "name": "Aravyre the Ranger"
+    },
+    {
+      "id": 7,
+      "name": "Ravanys the Fighter"
+    },
+    {
+      "id": 8,
+      "name": "Caratra the Wizard"
+    },
+    {
+      "id": 9,
+      "name": "Ianroar the Ranger"
+    },
+    {
+      "id": 10,
+      "name": "Traroar the Cleric"
+    }
+  ]
+}
